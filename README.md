@@ -1,2 +1,2 @@
 # PHPCacher
-PHP Content Cacher
+PHP Content Cacher for Implementation in any Website
